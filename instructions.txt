@@ -1,0 +1,1 @@
+Replace 'your_server', 'your_username', and 'your_password' with your actual SQL Server credentials.
